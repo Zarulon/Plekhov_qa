@@ -7,4 +7,4 @@
 ---
 
 
-[Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1MeMlRU-xMxArdSiuNtIsOp_MAHp7wOtBYWdEcIjqoJQ/edit#gid=0)
+[Пример моего тестового задания в Lad](https://docs.google.com/spreadsheets/d/1T5jGZiPSUn6et-Di2T_SPzy0BfGA8S5dVHsnYxdKzwo/edit#gid=0)
